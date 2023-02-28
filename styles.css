@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+    font-family: Arial,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans',sans-serif 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif Arial, Helvetica, sans-serif Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 6px solid #d8cefe;
+    background-color: a2d2ff;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
